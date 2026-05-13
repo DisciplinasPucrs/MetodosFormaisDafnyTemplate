@@ -5,7 +5,10 @@
     "vscode": {
       "extensions": [
         "dafny-lang.ide-vscode"
-      ]
+      ],
+      "settings": {
+        "dafny.automaticVerification": "never"
+      }
     }
   }
 }
